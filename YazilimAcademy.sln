@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazilimAcademy.Infrastructu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazilimAcademy.WebApi", "src\YazilimAcademy.WebApi\YazilimAcademy.WebApi.csproj", "{68D4AA05-3B78-46DE-918F-F9106418AAE0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6FC1B292-9DF3-4B1D-8130-EAB5AC550F9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

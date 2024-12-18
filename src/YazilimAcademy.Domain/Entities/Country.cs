@@ -6,7 +6,6 @@ namespace YazilimAcademy.Domain.Entities
 {
     public class Country : EntityBase
     {
-        public int Id { get; set; }
         public string Name { get; set; }
         public string? Iso3 { get; set; } //ASK: ISO3 or ISO2 required?
         public string Iso2 { get; set; }
